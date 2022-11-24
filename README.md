@@ -1,4 +1,5 @@
 # Lab 10. Singleton & Adapter
+[![Java CI with Maven](https://github.com/andylvua/OOP_Lab10/actions/workflows/maven.yml/badge.svg)](https://github.com/andylvua/OOP_Lab10/actions/workflows/maven.yml)
 
 ## Description
 A simple example of the Singleton and Adapter design patterns.
